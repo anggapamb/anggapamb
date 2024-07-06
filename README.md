@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! My name is Angga 👋
 
-<!--
-**anggapamb/anggapamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile programmer with a passion for creating beautiful and functional mobile applications. I specialize in Flutter and Kotlin, bringing seamless experiences to both Android and iOS users. Based in Indonesia, I'm always eager to connect and collaborate with other professionals in the tech community.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Flutter**: Building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Kotlin**: Developing robust Android applications with modern, expressive syntax.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Email](mailto:your-email@example.com)
+
+## 🌱 What I'm working on
+
+Currently, I'm focused on expanding my knowledge in advanced Flutter features and improving my proficiency in Kotlin to create even more powerful mobile applications.
+
+----
+
+Feel free to reach out if you have any questions or just want to connect!
