@@ -10,7 +10,7 @@ I'm a mobile programmer with a passion for creating beautiful and functional mob
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/angga-pambudi-setiawan-818022191/)
-- [Email](mailto:anggapsps@gmail.com)
+- Email: anggapamb.dev@gmail.com
 
 ## 🌱 What I'm working on
 
